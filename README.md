@@ -1,6 +1,11 @@
 # TodoApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+A little practice using Angular to create a simple Todo application
+
+
+
+
+
 
 ## Development server
 
